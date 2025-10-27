@@ -4,3 +4,5 @@ Repository for the paper “Machine Learning-Based Prediction and Geometric Qual
 If this repository is used in any of your work. Please make sure to reference the following paper.
 Hammoud, Ahmad and Mohomad, Yosef and Shomar, Hasan and Tafreshi, Reza and Masad, Eyad and Arroyave, R., Data-Driven Framework for Printability and Geometric
 Quality Prediction in 3D Concrete Printing. Available at SSRN: https://ssrn.com/abstract=5351327 or http://dx.doi.org/10.2139/ssrn.5351327
+and reference this repository using: 
+https://doi.org/10.5281/zenodo.17458818
